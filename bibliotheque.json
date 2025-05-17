@@ -1,0 +1,19 @@
+[
+    {
+        "ID": 1,
+        "Titre": "Nations N\u00e9gres et Culture",
+        "Auteur": "Cheikh Anta Diop",
+        "Ann\u00e9e": 1954,
+        "Lu": false,
+        "Note": null
+    },
+    {
+        "ID": 2,
+        "Titre": "Plus jamais",
+        "Auteur": "Colleen Hover",
+        "Ann\u00e9e": 2016,
+        "Lu": true,
+        "Note": 8,
+        "Commentaire": "Bien"
+    }
+]
